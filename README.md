@@ -11,6 +11,10 @@
 
 - chemin de l'index : **siteNuit/views/index.php**
 
+- pour l'ajout de css : **siteNuit/views/header.php**
+
+- pour l'ajout de script JS ou JQuery : **siteNuit/views/footer.php**
+
 # IDE
 
 - [Atom](https://atom.io)
