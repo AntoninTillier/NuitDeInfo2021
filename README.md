@@ -1,5 +1,14 @@
 # NuitDeInfo2021
 
+
+# IDE
+
+- [Atom](https://atom.io)
+
+- [PhpStorm](https://www.jetbrains.com/fr-fr/phpstorm/download/)
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
+
 # Documentation
 
 - [html](https://developer.mozilla.org/fr/docs/Web/HTML)
