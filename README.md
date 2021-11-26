@@ -1,5 +1,11 @@
 # NuitDeInfo2021
 
+# ⚠️ **Warning**: Be very careful here!
+
+| documetation                        | utilisation                                                                                       |
+|-------------------------------------|---------------------------------------------------------------------------------------------------|
+| [git](https://git-scm.com/docs/git) | soit par terminal ou dans un IDE (Atom, PhpStorm) ou [GitHub Desktop](https://desktop.github.com) |
+|                                     |                                                                                                   |
 
 # IDE
 
