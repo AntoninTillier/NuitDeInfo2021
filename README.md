@@ -11,9 +11,9 @@
 
 - chemin de l'index : **siteNuit/views/index.php**
 
-- pour l'ajout de lien css : **siteNuit/views/header.php**
+- pour l'ajout de liens css : **siteNuit/views/header.php**
 
-- pour l'ajout de lien script JS ou JQuery : **siteNuit/views/footer.php**
+- pour l'ajout de liens script JS ou JQuery : **siteNuit/views/footer.php**
 
 # IDE
 
