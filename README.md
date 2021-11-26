@@ -23,6 +23,8 @@
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
+> *Tous les IDE sont gratuit pour les étudiants*
+
 # Serveur pour php et database
 
 - [MAMP](https://www.mamp.info/en/downloads/)
