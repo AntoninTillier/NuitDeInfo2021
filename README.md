@@ -9,7 +9,7 @@
 
 # Start project
 
-- chemin de l'index : siteNuit/views/index.php
+- chemin de l'index : **siteNuit/views/index.php**
 
 # IDE
 
