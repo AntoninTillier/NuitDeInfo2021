@@ -7,6 +7,10 @@
 | [git](https://git-scm.com/docs/git) | soit par terminal ou dans un IDE (Atom, PhpStorm) ou [GitHub Desktop](https://desktop.github.com) |
 |                                     |                                                                                                   |
 
+# Start project
+
+- chemin de l'index : siteNuit/views/index.php
+
 # IDE
 
 - [Atom](https://atom.io)
